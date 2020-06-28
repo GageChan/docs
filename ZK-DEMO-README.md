@@ -12,11 +12,11 @@
 
 ### put and delete
 
-![image-20200628234916536](/Users/gagechan/Library/Application Support/typora-user-images/image-20200628234916536.png)
+![image-20200628234916536](images/image-20200628234916536.png)
 
 ### read
 
-![image-20200628235155014](/Users/gagechan/Library/Application Support/typora-user-images/image-20200628235155014.png)
+![image-20200628235155014](images/image-20200628235155014.png)
 
 # 3.分布式锁说明
 
